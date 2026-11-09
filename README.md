@@ -26,9 +26,6 @@ mensagens de erro claras e estoque sempre consistente.
     linguagem substitui o controle manual, que depende de memória e papel,
     por um registro verificável.
 
-A pesquisa de campo não confirmou distribuição de material escolar pela
-instituição (0% das respostas), então o projeto **não reivindica** o ODS 4.
-
 ## Etapas do processamento
 
 ```
